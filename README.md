@@ -1,2 +1,4 @@
 # bloxhit
-bloxfruits shit
+bloxfruits hub typa shi
+
+(popular script in bloxscripts) 
