@@ -1,4 +1,4 @@
 # bloxhit
 bloxfruits hub typa shi
 
-(popular script in bloxscripts) 
+(popular script in scriptblox) 
